@@ -1,1 +1,1 @@
-# test-repository
+# testrepository
